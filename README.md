@@ -1,4 +1,4 @@
-# Web Application for Crud operation (Create Read Edit Delete)
+# Web Application for Crud operation
 
 Hi👋 , I’m @priyankanikam12
 
