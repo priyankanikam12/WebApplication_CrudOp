@@ -6,7 +6,7 @@ Hi👋 , I’m @priyankanikam12
 
 👀 I’m interested in - Making Websites.
 
-🌱 I’m currently learning - B.Tech in ENTC
+🌱 Graduate - B.Tech in ENTC
 
 📫 How to reach me priyankanikam101s@gmail.com
 
